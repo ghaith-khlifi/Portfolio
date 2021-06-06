@@ -6,7 +6,7 @@
 * Bachelors of Science (Computer science), *Kairaouan University*, 2014-2017
 
 # [Project 1: Stock market forcasting using DL]
-![Stock market forcasting using DL](focast.jpg)
+![Sentiment analysis of app reviews](forcast.jpg)
 
 Photo by <a href="https://unsplash.com/@nick604?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Chong</a> on <a href="https://unsplash.com/s/photos/stock-market?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
