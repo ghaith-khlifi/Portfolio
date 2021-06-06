@@ -5,8 +5,8 @@
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
-# [Project 1: Stock market forcasting using DL](http://youtube.com/dataprofessor)
-![Project 1: Stock market forcasting using DL](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+# [Project 1: Stock market forcasting using DL]
+![Project 1: Stock market forcasting using DL](focast.jpg)
 
 Photo by <a href="https://unsplash.com/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Ku</a> on <a href="https://unsplash.com/s/photos/forex-machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
