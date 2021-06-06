@@ -16,7 +16,7 @@ This project integrates various news source for performing forcasting for stock 
 * **Output:** stock market Signals.
 
 # [Project 2: Sentiment analysis of app reviews]
-![Sentiment analysis of app reviews]](sentiment.jpg)
+![Sentiment analysis of app reviews](sentiment.jpg)
 
 Photo by <a href="https://unsplash.com/@srd844?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stephen Dawson</a> on <a href="https://unsplash.com/s/photos/sentiment-analysis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
