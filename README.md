@@ -8,7 +8,8 @@
 # [Project 1: Stock market forcasting using DL]
 ![Stock market forcasting using DL](focast.jpg)
 
-Photo by <a href="https://unsplash.com/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Ku</a> on <a href="https://unsplash.com/s/photos/forex-machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@nick604?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Chong</a> on <a href="https://unsplash.com/s/photos/stock-market?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 This project integrates various news source for performing forcasting for stock markets.
 * **Python libraries used:** Keras, matplotlib, pandas and others.
