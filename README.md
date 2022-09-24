@@ -1,8 +1,8 @@
 # Ghaith Khlifi
-*An Aspiring Data Scientist | NLP Enthusiasm*
+*Computer Vision Engineer*
 
 # Education
-* Masters of Information system for deccsion support (Data Science), *ISG SOUSSE University*, 2018-2020
+* Master of Research in Information systems (Data Science), *ISG SOUSSE University*, 2018-2020
 * Bachelors of Science (Computer science), *Kairaouan University*, 2014-2017
 
 # [Project 1: Stock market forcasting using DL]
